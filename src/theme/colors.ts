@@ -46,6 +46,7 @@ const highlight300 = "#8aade5";
 const highlight200 = "#b4caef";
 const highlight100 = "#dde7f8";
 const highlight100 = "#f3f6fb";
+const buttonCallToAction = highlight500;
 
 export const Colors = {
     primary900,
@@ -96,4 +97,6 @@ export const Colors = {
     highlight200,
     highlight100,
     highlight100,
+  /** Color of a Call-To-Action button */
+    buttonCallToAction,
 }
